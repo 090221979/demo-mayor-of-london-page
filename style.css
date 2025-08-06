@@ -1,0 +1,75 @@
+body { margin: 0; width: 100%; height: 100%; box-sizing:border-box;}
+
+.pic
+{
+    background-image:linear-gradient(rgba(0,0,255,0.5),rgba(0,0,255,0.4)),url('https://www.studying-in-uk.org/wp-content/uploads/2019/05/study-in-london-1068x641.jpg');
+    background-size:display;
+    background-position:center;
+}
+
+.pic-h1
+{
+    font-family:sans-serif;
+    letter-spacing:5px;
+    font-size:3.5rem;
+    color:white;
+}
+
+.pic-txt
+{
+    font-family:sans-serif;
+    color:white;  
+} 
+
+hr.h-rule{border: 1px solid silver;}
+
+.lk-clr
+{
+    color:rgba(255,0,0,0.7);
+    font-weight:600;
+    font-size:1.2rem;
+}
+
+.txt-sml{font-size:0.7rem;}
+
+.frm
+{
+    width:50vw;
+    border-radius:7px;
+    padding:20px;
+    margin: 0 auto;
+    z-index:1;
+    background:rgb(145,145,211);
+    color:white;
+}
+
+.frmpic
+{
+    
+    z-index:-1;
+    background-image:linear-gradient(rgba(0,0,255,0.4),rgba(0,0,255,0.6)),url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbITUjntwxWiFbUq8bo9E166XqCcAVmgQ7dg&s');
+    background-size:cover;
+    background-position:center;
+}
+
+.ftr
+{
+    background:#8080FF;
+    color:white;
+    font-family:sans-serif;
+}
+
+.ftr a{font-size:0.65rem;color:white;}
+.ftr p{font-size:0.65rem;color:white;}
+
+.ftr h5{font-size:1rem;}
+
+.scl
+{
+  font-size:20px; 
+  color:white;
+  transition: 0.5s color ease-in-out;
+}
+.scl:hover{color:gold;}
+
+.icon{font-size:35px;}
