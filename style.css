@@ -2,7 +2,7 @@ body { margin: 0; width: 100%; height: 100%; box-sizing:border-box;}
 
 .pic
 {
-    background-image:linear-gradient(rgba(0,0,255,0.5),rgba(0,0,255,0.4)),url('https://www.studying-in-uk.org/wp-content/uploads/2019/05/study-in-london-1068x641.jpg');
+    background-image:linear-gradient(rgba(0,0,255,0.5),rgba(0,0,255,0.4)),url('images/study-in-london-1080x641.jpg');
     background-size:display;
     background-position:center;
 }
@@ -47,7 +47,7 @@ hr.h-rule{border: 1px solid silver;}
 {
     
     z-index:-1;
-    background-image:linear-gradient(rgba(0,0,255,0.4),rgba(0,0,255,0.6)),url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbITUjntwxWiFbUq8bo9E166XqCcAVmgQ7dg&s');
+    background-image:linear-gradient(rgba(0,0,255,0.4),rgba(0,0,255,0.6)),url('images/map.jpg');
     background-size:cover;
     background-position:center;
 }
